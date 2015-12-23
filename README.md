@@ -1,5 +1,7 @@
 # ![LuckyMine](http://i1279.photobucket.com/albums/y523/textcraft/Dec%202015%20-%204/ab3934b015444641c106994a61fb5a2edea2d3d9cf85d13468e415371c9ff419a99a8d2f2e716875da39a3ee5e6b4b0d3255bfef95601890afd807091e68_zpsvm2xv1wi.png)
 
+[![Join the chat at https://gitter.im/Seetch/LuckyMine](https://badges.gitter.im/Seetch/LuckyMine.svg)](https://gitter.im/Seetch/LuckyMine?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Project Addons:
 [![Travis Build](https://travis-ci.org/ImagicalCorp/ImagicalMine.svg)](https://travis-ci.org/ImagicalCorp/ImagicalMine)
 [![Join the chat at https://gitter.im/ImagicalCorp/ImagicalMine](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ImagicalCorp/ImagicalMine?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
